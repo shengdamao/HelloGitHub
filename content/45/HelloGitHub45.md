@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 45 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/45/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C# 项目](#C-项目-1)
 - [C++ 项目](#C-项目-2)
@@ -32,15 +22,15 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[smartdns](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pymumu/smartdns)：一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用，架构图如下：
@@ -157,7 +147,7 @@ func main() {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yueshutong/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
+13、[SnowJena](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/onblog/SnowJena)：基于令牌桶算法实现的分布式无锁限流框架。简单易用的 API，开箱即用、支持熔断降级、动态配置规则、可视化监控等功能。示例代码：
 ```java
 public class AppTest {
     Logger logger = LoggerFactory.getLogger(getClass());
@@ -199,7 +189,7 @@ public class AppTest {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-16、[postwoman](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/liyasthomas/postwoman)：一款基于 Node.js 的免费开源、便捷美观的 API 调试工具。它是调试接口的利器，能够尽快的发现问题提高开发效率。相信体会过 Postman 的同学，看到这个项目的名字就已经跃跃欲试了
+16、[hoppscotch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoppscotch/hoppscotch)：一款基于 Node.js 的免费开源、便捷美观的 API 调试工具。它是调试接口的利器，能够尽快的发现问题提高开发效率。相信体会过 Postman 的同学，看到这个项目的名字就已经跃跃欲试了
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/postwoman.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -207,7 +197,7 @@ public class AppTest {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/react-text-loop.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[uform](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/uform)：一款面向企业级复杂场景的高性能表单解决方案。特性：
+18、[formily](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/formily)：一款面向企业级复杂场景的高性能表单解决方案。特性：
 - 🚀 高性能，字段分布式渲染，大大减轻 React 渲染压力
 - 💡 支持 Ant Design/Fusion Next 组件体系
 - 🎨 JSX 标签化写法/JSON Schema 数据驱动方案无缝迁移过渡
@@ -270,7 +260,7 @@ export default function Demo() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/rc-bullets.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sixiaodong123/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
+20、[react-loading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Summer-andy/react-loading)：一款轻量、开箱即用并且支持按需加载的 React 动画组件库。示例代码：
 ```javascript
 import React from 'react';
 import { DisappearedLoading } from 'react-loadingg';
@@ -373,11 +363,11 @@ window.close()
 ### 其它
 27、[clean-code-javascript](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ryanmcdermott/clean-code-javascript)：《Clean Code JavaScript》（JavaScript 代码整洁之道），这是根据《代码整洁之道》作者多年经验整理的 JS 代码优化建议，但也仅仅只是一份建议。[中文](https://github.com/alivebao/clean-code-js)
 
-28、[wenyan-lang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LingDong-/wenyan-lang)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
+28、[wenyan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wenyan-lang/wenyan)：文言文编程语言。文言文语法，可以编译成 JavaScript、Python 或者 Ruby，你见过用文言文编写程序吗？快来试试吧。[在线尝试](http://wenyan-lang.lingdong.works/ide.html)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/wenyan-lang.png' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[short_url](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Youthink/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
+29、[short_url](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/imfycc/short_url)：Elixir 语言开发的支持自定义短码的短链接服务。新手可以参考该项目源码和[原理解析](https://hufangyun.com/2017/short-url/)，理解、实现短链接服务的同时，体验用 Elixir 语言开发一个 Web 服务。[在线尝试](https://fearless-trustworthy-aidi.gigalixirapp.com/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/short_url.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -411,7 +401,7 @@ trainer = Trainer(cfg, max_iter=None, batch_size=None,
 trainer(net, train_dataset)
 ```
 
-34、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AIDungeon/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
+34、[AIDungeon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Latitude-Archives/AIDungeon)：一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/45/img/AIDungeon.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -435,15 +425,16 @@ face_landmarks_list = face_recognition.face_landmarks(image)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/44/HelloGitHub44.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/44/HelloGitHub44.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/46/HelloGitHub46.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/45/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
